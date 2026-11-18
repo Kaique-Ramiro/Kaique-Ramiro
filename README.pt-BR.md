@@ -1,3 +1,4 @@
+[README.pt-BR (1).md](https://github.com/user-attachments/files/35033105/README.pt-BR.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,50:6D28D9,100:00BFFF&height=175&section=header&text=Kaique%20Ramiro&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Kaique Ramiro" />
@@ -14,6 +15,7 @@
 
 <p>
   <a href="https://github.com/kaique-ramiro"><img src="https://img.shields.io/badge/GitHub-kaique--ramiro-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil no GitHub" /></a>
+  <a href="https://www.linkedin.com/in/kaique-ramiro-338b60366/"><img src="https://img.shields.io/badge/LinkedIn-Kaique_Ramiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil no LinkedIn" /></a>
 </p>
 
 *Aprendendo, desenvolvendo e transformando ideias em soluções.*
@@ -122,6 +124,7 @@ Sistema acadêmico voltado ao **controle de estoque e integração com banco de 
 ## 🤝 Vamos nos conectar
 
 <a href="https://github.com/kaique-ramiro"><img src="https://img.shields.io/badge/GitHub-Ver_meu_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/kaique-ramiro-338b60366/"><img src="https://img.shields.io/badge/LinkedIn-Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 *Sempre aprendendo. Sempre desenvolvendo. 🚀*
 
